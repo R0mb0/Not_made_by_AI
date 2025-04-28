@@ -20,12 +20,40 @@
             width: auto;
             text-align: center;
             vertical-align: middle;
+            position: relative;
         }
         td:first-child {
             width: 40%;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
         }
-        td:last-child {
-            width: 60%;
+        td:first-child::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 30px;
+            height: 30px;
+            border: 2px solid red;
+            border-radius: 50%;
+            background-color: transparent;
+            z-index: 1;
+        }
+        td:first-child::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(45deg);
+            width: 2px;
+            height: 30px;
+            background-color: red;
+            z-index: 2;
+        }
+        td span {
+            position: relative;
+            z-index: 3;
         }
     </style>
 </head>
@@ -34,8 +62,8 @@
     <div class="rectangle">
         <table>
             <tr>
-                <td>Image-zone</td>
-                <td>text-zone</td>
+                <td><span>AI</span></td>
+                <td style="font-size:15px; line-height:0.9"><span>not made <br> by AI</span></td>
             </tr>
         </table>
     </div>
