@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .rectangle {
+            width: 130px;
+            height: 40px;
+            border: 3px solid #9fa9a3; 
+            border-radius: 15px; 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #1e1e1e;
+        }
+        table {
+            width: 100%;
+            height: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            width: auto;
+            text-align: center;
+            vertical-align: middle;
+            position: relative;
+            color: #ffffff;
+        }
+        td:first-child {
+            width: 40%;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+        }
+        td:first-child::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 30px;
+            height: 30px;
+            border: 2px solid #ff5252; /* Bright red border for better contrast */
+            border-radius: 50%;
+            background-color: transparent;
+            z-index: 1;
+        }
+        td:first-child::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(45deg);
+            width: 2px;
+            height: 30px;
+            background-color: #ff5252; /* Bright red color for better contrast */
+            z-index: 2;
+        }
+        td span {
+            position: relative;
+            z-index: 3;
+        }
+    </style>
+</head>
+<body>
+    <!-- Rectangle -->
+    <div class="rectangle">
+        <table>
+            <tr>
+                <td style="font-size:20px;"><span>AI</span></td>
+                <td style="font-size:15px; line-height:0.9;"><span><b>not made <br> by AI</b></span></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
