@@ -5,7 +5,7 @@
 [![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
 <h1>
-  Not made by AI 
+  Not made by
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/ReadMeImgs/NotAiDark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/ReadMeImgs/NotAILight.svg">
