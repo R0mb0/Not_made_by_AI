@@ -35,8 +35,101 @@ Simply copying and pasting the following code (∪ ◡ ∪)
 ```
 ## Story of this repository
 
-This project was inspired by the [Not By AI](https://notbyai.fyi/) initiative, which I discovered while searching for a badge to inform people that the content in my repositories was created without the use of AI. However, I chose not to use their badges because I believe they should be included in projects where, as they encourage, the content has been reviewed to ensure that only a minimal portion of the work was created using AI.
+This project was inspired by the [Not By AI](https://notbyai.fyi/) initiative, which I discovered while searching for a badge to inform people that the content in my repositories was created without the use of AI. However, I chose not to use their badges because I believe they should be included in projects where, [as they encourage](https://notbyai.fyi/how-it-works), the content has been reviewed to ensure that only a minimal portion of the work was created using AI.
 
 As a programmer with limited free time, I am unable to submit my projects and provide detailed descriptions beyond what I have already wrote. For this reason, I decided to create my own badge as a personal challenge and a way to take a break from my main job.
 
+## Common Questions
 
+<div align="left">
+<details>
+  <summary> 
+   
+### Why did you use HTML to draw the badge?
+  
+  </summary>  
+
+I'm not skilled with drawing apps, and I had limited free time to create the badge. (╥﹏╥) So, I preferred to use a familiar tool instead of learning a new one.¯\_(ツ)_/¯
+  
+</details>
+</div>
+
+<div align="right">
+<details>
+  <summary> 
+
+### Did you use AI to help yourself?
+  
+  </summary>  
+
+No, I copied, pasted, and personalized code found on the internet. ദ്ദി(˵ •̀ ᴗ - ˵ )
+  
+</details>
+</div>
+
+<div align="left">
+<details>
+  <summary> 
+
+### How did you convert an HTML file to SVG?
+  
+  </summary>  
+
+I used [EvoPDF](https://www.evopdf.com/demo/HTML_to_Image/HTML_to_SVG.aspx).
+  
+</details>
+</div>
+
+<div align="right">
+<details>
+  <summary> 
+
+### Isn't it much easier to use the badges from [Not By AI](https://notbyai.fyi/)?
+  
+  </summary>  
+
+No. Creating this entire repository took me about two hours of my free time. Submitting my work to the [register](https://notbyai.fyi/how-it-works) page on the "Not By AI" website would have taken much more time. Also, I prefer that their badges are used only for reviewed works.
+  
+</details>
+</div>
+
+<div align="left">
+<details>
+  <summary> 
+
+### Is this badge proof that the work is human-made and not created by AI?
+  
+  </summary>  
+
+Anyone can misuse this badge or create their own badge claiming that their work is human-made. Therefore, the presence of this badge is not definitive proof of a human-original work. It ultimately comes down to whether you trust the author.
+  
+</details>
+</div>
+
+<div align="right">
+<details>
+  <summary> 
+
+### Why should I include this badge in my work?
+  
+  </summary>  
+
+This badge is a form of self-declaration that you put effort into creating your work. It can be seen as a way to celebrate your dedication and hard work.
+  
+</details>
+</div>
+
+<div align="left">
+<details>
+  <summary> 
+
+### What do you think about AI?
+  
+  </summary>  
+
+I think AI is a fantastic tool for work, but it should not be used as a replacement for the effort required to learn something. I see AI as an assistant to simplify my work, not a tool to delegate my tasks. 
+
+The only way to grow as a person and a professional is to spend time learning and not always look for the easiest way to do everything. Gaining experience is the most important thing. (˶ᵔ ᵕ ᵔ˶)
+  
+</details>
+</div>
