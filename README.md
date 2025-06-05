@@ -33,6 +33,7 @@ Simply copying and pasting the following code (∪ ◡ ∪)
     <img alt="Not made by AI" src="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDefault.svg">
   </picture>
 ```
+
 ## Story of this repository
 
 This project was inspired by the [Not By AI](https://notbyai.fyi/) initiative, which I discovered while searching for a badge to inform people that the content in my repositories was created without the use of AI. However, I chose not to use their badges because I believe they should be included in projects where, [as they encourage](https://notbyai.fyi/how-it-works), the content has been reviewed to ensure that only a minimal portion of the work was created using AI.
