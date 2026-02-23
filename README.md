@@ -27,7 +27,7 @@ Badges to indicate that the repository content has been made by _Humans_ and not
 Simply copying and pasting the following code (∪ ◡ ∪)
 
 ```markdown
-  <a href="https://github.com/R0mb0/Not_made_by_AI">
+<a href="https://github.com/R0mb0/Not_made_by_AI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAILight.svg">
